@@ -150,8 +150,8 @@ export default {
       },
       typeName:null,
       is_sc:true,
-      // baseUrl:'http://117.34.105.87:8087' //正式版本
-      baseUrl:'http://192.168.3.108:8080'    //加盟版本
+      baseUrl:'http://117.34.105.87:8087' //正式版本
+      // baseUrl:'http://192.168.3.108:8080'//加盟版本
     };
   },
   mounted() {
